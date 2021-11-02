@@ -5,4 +5,5 @@
 - `git status`: tells you the status of the repository
 - `git add <FILE>`: add the <FILE> to repository
 ` `git commit`: commit the file
-- `git commit -m`" add and commit
+- `git commit -m`" add and commi
+- `HEAD`: where you are looking into historyt
