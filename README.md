@@ -11,4 +11,3 @@
 	- `git diff HEAD <FILE>`: only diff the <FILE>
 	- `'git diff HEAD~2`: diff current state from 2 commit
 	- `git diff <HASH>`: diff current state from <HAS>
-- git branch b2
